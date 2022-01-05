@@ -8,7 +8,7 @@ Class {
 }
 
 { #category : #initialize }
-MyCharlesA >> initialize [ 
+MyCharlesA >> initialize [
 
-	instVar1 := 'Hello'.
+	instVar1 := 'Hello World'
 ]
